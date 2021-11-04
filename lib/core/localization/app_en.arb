@@ -2,5 +2,6 @@
   "appTitle": "tech_tuesday",
   "@appTitle": {
     "description": "The title of the application"
-  }
+  },
+  "runningType": "I am running in: "
 }
