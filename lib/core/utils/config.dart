@@ -14,7 +14,7 @@ class Config {
   static bool get isDevelopment => environment == Environment.development;
   static String get email => _email ?? '';
   static String get password => _password ?? '';
-  static String get apiUrl => '$_apiUrl/v1';
+  static String get apiUrl => _apiUrl;
 
   static Future<void> init() async {
     try {

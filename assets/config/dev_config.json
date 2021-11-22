@@ -1,5 +1,5 @@
 {
-    "api_url": "local/dev",
+    "api_url": "http://techtuesday.co.za/wp-json/wp/v2",
     "email": "Devemail",
     "password": "Devpassword"
 }
