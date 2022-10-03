@@ -1,0 +1,8 @@
+app_identifier("tech.bitcube.techtuesday") # The bundle identifier of your app
+apple_id("johan@bitcube.tech") # Your Apple email address
+
+itc_team_id("119192469") # App Store Connect Team ID
+team_id("99D85V82BA") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
